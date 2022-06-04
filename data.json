@@ -1,0 +1,19 @@
+{
+    "posts": [{
+            "userId": "0",
+            "userName": "Test",
+            "subscribers": "100",
+            "likes": "50",
+            "comments": "14",
+            "viewed": "123"
+        },
+        {
+            "userId": "1",
+            "userName": "Test",
+            "subscribers": "100",
+            "likes": "50",
+            "comments": "14",
+            "viewed": "123"
+        }
+    ]
+}
